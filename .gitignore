@@ -1,0 +1,29 @@
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+shelf/
+workspace.xml
+mavenHomeManager.xml
+
+# === Java Specific ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === macOS ===
+.DS_Store
+
+# === Logs ===
+*.log
+
+# === Build Tools (Optional: Gradle/Maven) ===
+target/
+build/
+
+# === VS Code (if ever used) ===
+.vscode/
+
+# === Others ===
+*.swp
