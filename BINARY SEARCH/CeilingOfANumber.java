@@ -1,4 +1,14 @@
 
+/*
+Ceiling of a Number ----->  Smallest Number which is greater than the target element....(also equal)💀
+
+
+floor of a Number ----->  Greatest Number which is smaller than the target element....
+
+ */
+
+
+
 public class CeilingOfANumber {
     public static void main(String[] args) {
         int[] arr = {-18, -12, -4, 0, 2, 3, 4, 15, 16, 18, 22, 45, 89};
